@@ -1,0 +1,9 @@
+Code-Review+2: Elena Ezhova <eezhova@mirantis.com>
+Code-Review+2: Ronald Bradford <ronald.bradford@gmail.com>
+Workflow+1: Ronald Bradford <ronald.bradford@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 02 May 2016 14:32:42 +0000
+Reviewed-on: https://review.openstack.org/311399
+Project: openstack/deb-python-oslo.service
+Branch: refs/heads/stable/liberty
