@@ -1,3 +1,14 @@
+python-oslo.service (1.16.0-1) experimental; urgency=medium
+
+  [ Corey Bryant ]
+  * New upstream release.
+  * d/control: Align (Build-)Depends with upstream.
+
+  [ Corey Bryant ]
+  * New upstream release.
+
+ -- Corey Bryant <corey.bryant@canonical.com>  Wed, 31 Aug 2016 14:04:15 -0400
+
 python-oslo.service (1.11.0-1) experimental; urgency=medium
 
   [ Corey Bryant ]
