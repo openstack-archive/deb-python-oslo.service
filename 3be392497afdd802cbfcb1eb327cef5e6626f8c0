@@ -1,0 +1,8 @@
+Code-Review+2: Elena Ezhova <eezhova@mirantis.com>
+Workflow+1: Elena Ezhova <eezhova@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 02 Apr 2017 17:45:29 +0000
+Reviewed-on: https://review.openstack.org/452482
+Project: openstack/deb-python-oslo.service
+Branch: refs/heads/master
