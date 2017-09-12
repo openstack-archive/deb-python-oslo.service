@@ -1,5 +1,0 @@
----
-features:
-  - |
-    Add a new type of looping call: FixedIntervalWithTimeoutLoopingCall. It is
-    a FixedIntervalLoopingCall with timeout checking.
